@@ -1,4 +1,4 @@
-# Python-project
+# Sales-Data-Analysis-Python
 ## Sales Data Analysis using Python | Pandas | Matplotlib | Seaborn
 
 ##  Project Description
